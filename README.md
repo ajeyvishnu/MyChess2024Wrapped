@@ -42,7 +42,7 @@ Game results categorized by reason (wins, draws, losses) and gameplay as White/B
 Focus on the most common openings and their impact on game outcomes.  
 
 ## How to Access the Dashboard  
-You can explore the interactive dashboards here: [Insert Dashboard Link]  
+You can explore the interactive dashboards here: [Tableau Public](https://public.tableau.com/app/profile/ajay.vishnu.addala/viz/My2024Chess_comWrapped/HomePage) 
 
 ## Feedback  
 I welcome your feedback to improve this project. Please feel free to reach out with your thoughts or suggestions!  
